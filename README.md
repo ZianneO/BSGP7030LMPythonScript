@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMPython)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP7030-LM/Python)
 
 (https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMPython)
 
