@@ -1,14 +1,14 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/conda_binder2024.git/py37_r353)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMPython)
 
-(https://mybinder.org/v2/gh/ZianneO/conda_binder2024.git/py37_r353)
+(https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMPython)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-(https://mybinder.org/v2/gh/ZianneO/conda_binder2024.git/py37_r353)
+(https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMPython)
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
