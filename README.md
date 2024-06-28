@@ -31,3 +31,4 @@ be removed are:
 * appnope=0.1.0
 * libgfortran=3.0.1
 * libcxx=4.0.1
+# BSGP7030-LMP
